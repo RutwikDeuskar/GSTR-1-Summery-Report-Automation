@@ -38,11 +38,11 @@ This project automates the generation of GSTR-1 reports using Python and Pandas,
 
 ### 5. Transform Data
    - **Merge all Relevant Data**: 
-    	-Merge product master to get product data such as GST-Rate, HSN, Price. 
-	-Merge State code with above steps(4), get customer state code,
-	-from customer state determine CGST/SGST/IGST
-	-Merge Customer Data With GST number to get Customer Name
-	-Group B2B,B2C,CDNR Supplies in respected tables of GSTR1
+    	- Merge product master to get product data such as GST-Rate, HSN, Price. 
+	- Merge State code with above steps(4), get customer state code,
+	- from customer state determine CGST/SGST/IGST
+	- Merge Customer Data With GST number to get Customer Name
+	- Group B2B,B2C,CDNR Supplies in respected tables of GSTR1
 
 ### 6. Conduct analysis using the data.
    - **HSN Wise Tax Summery**: Perform a summary of GST by HSN using Groupby or Pivot_table.
