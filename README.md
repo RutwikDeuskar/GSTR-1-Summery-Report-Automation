@@ -3,8 +3,9 @@
 ## Project Overview
 
 
-This project automates the generation of GSTR-1 reports using Python and Pandas, eliminating the need for manual processing in Excel. It extracts, cleans, and structures GST-related data, ensuring accurate and efficient reporting for tax compliance. Utilise the .ipynb file to comprehend the coding process. 
-
+This project automates the generation of GSTR-1 reports using Python and Pandas, eliminating the need for manual processing in Excel. It extracts, cleans, and structures GST-related data, ensuring accurate and efficient reporting for tax compliance. 
+- Utilise the `.ipynb` file to comprehend the coding process. 
+- Use a `.py` file for automation and reusability.
 ### Key Features:
 
 - Automated Data Processing: Cleans and organizes raw invoice data.
