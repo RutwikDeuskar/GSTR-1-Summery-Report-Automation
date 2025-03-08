@@ -19,7 +19,7 @@ This project automates the generation of GSTR-1 reports using Python and Pandas,
 
 
 ### 1. Download Masters Data
-   - **Dataset Link**:
+   - **Dataset Link**: https://github.com/RutwikDeuskar/GSTR-1-Summery-Report-Automation/blob/main/Master_Files.zip
 
 ### 2. Explore the Data
    - **Goal**: Conduct an initial data exploration to understand data distribution, check column names, types, and identify potential issues.
